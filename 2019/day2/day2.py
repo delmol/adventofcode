@@ -102,8 +102,4 @@ def bruteForce():
 	return
 
 				
-#intProgram = program()	
-#x = runIntcode(intProgram)
-#print(x)
-
 bruteForce()
